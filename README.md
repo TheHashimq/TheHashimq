@@ -1,5 +1,5 @@
-### Hi there 👋
-## This is hashimq , i'm a noob programmer ... learning !
+## Hi there 👋
+### This is hashimq , i'm a noob programmer ... learning !
  
  
 <!--
