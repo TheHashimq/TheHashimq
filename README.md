@@ -1,4 +1,5 @@
 ## Hello there 👋
+
 ### This is hashimq , i'm a noob programmer ... learning !
 
 ![image](https://i.pinimg.com/736x/93/24/05/932405dd077400dac3b3521cf9ef8883.jpg)
@@ -28,6 +29,9 @@
 <div> 
 
 ### BackEnd 
+<div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="5%" />
+</div>
 
 ### Tools And Software
 
@@ -36,3 +40,9 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" alt="Linux Logo" width="6%" title='Linux' />
     <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="VIm Logo" width="5%" title='VIM' />
 </div>
+
+---
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hashimq07&theme=dark&background=000000)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimq07&layout=compact&theme=vision-friendly-dark)](https://github.com/hashimq07/github-readme-stats)
