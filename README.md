@@ -14,26 +14,26 @@
 
 ## My Tech Stack 
 
-### Programming languages in which i can write "Hello World"
+### Programming languages in which i can write "Hello World" :satisfied::sunglasses:
 <div>
   <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" alt="C Logo" width="4%" title='C'/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="4%" title='C++' />
   <img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-9.png" alt="Python Logo" width="5%" title='Python'/>
 </div>
 
-### Frontend
+### :computer: Frontend
 
 <div>
   <img src ="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML5 logo" width="4.2%" title='HTML5'/>
   <img src ="https://www.santiagobarrionuevo.com/wp-content/uploads/2014/04/CSS3-Logo.png" alt="CSS3 logo" width="3.9%" title='CSS3'/>
 <div> 
 
-### BackEnd 
+### 🛠️ BackEnd 
 <div>
 <img src="https://upload.wikimedia.org/wikipedia/commons/5/59/Empty.png" width="5%" />
 </div>
 
-### Tools And Software
+### 🧰 Tools And Software
 
 <div>
     <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="git Logo" width="5%" title='git' />
