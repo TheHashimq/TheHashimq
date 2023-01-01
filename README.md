@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-### This is hashimq , i'm a noob programmer ... learning !
+### This is hashimq , Just a noob programmer ... learning !
 
 ![image](https://i.pinimg.com/736x/93/24/05/932405dd077400dac3b3521cf9ef8883.jpg)
  
