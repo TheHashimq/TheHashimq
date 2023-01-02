@@ -24,7 +24,7 @@
 ### :computer: Frontend
 
 <div>
-  <img src ="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML5 logo" width="6%" title='HTML5'/>
+  <img src ="https://logos-download.com/wp-content/uploads/2017/07/HTML5_badge.png" alt="HTML5 logo" width="6.5%" title='HTML5'/>
   <img src ="https://www.santiagobarrionuevo.com/wp-content/uploads/2014/04/CSS3-Logo.png" alt="CSS3 logo" width="5.8%" title='CSS3'/>
 <div> 
 
