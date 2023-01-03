@@ -1,8 +1,8 @@
 ## Hello there 👋
 
-### This is hashimq , Just a noob programmer ... learning !
+### This is Hashimq , Just a noob programmer ... learning !
 
-### :fire: My Stats :
+### My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hashimq07&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![image](https://i.pinimg.com/736x/93/24/05/932405dd077400dac3b3521cf9ef8883.jpg)
