@@ -2,6 +2,9 @@
 
 ### This is hashimq , Just a noob programmer ... learning !
 
+### :fire: My Stats :
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hashimq07&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ![image](https://i.pinimg.com/736x/93/24/05/932405dd077400dac3b3521cf9ef8883.jpg)
  
  Here are some facts / information about me :
@@ -42,7 +45,6 @@
 </div>
 
 ---
-### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=hashimq07&theme=dark&background=000000)](https://git.io/streak-stats)
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hashimq07&layout=compact&theme=vision-friendly-dark)](https://github.com/hashimq07/github-readme-stats)
