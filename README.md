@@ -19,7 +19,6 @@
 <div>
   <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" alt="C Logo" width="6%" title='C'/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="6%" title='C++' />
-  <img src="http://clipart-library.com/images_k/python-logo-transparent/python-logo-transparent-9.png" alt="Python Logo" width="6.4%" title='Python'/>
 </div>
 
 ### :computer: Frontend
