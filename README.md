@@ -6,7 +6,6 @@
 ![image](https://i.pinimg.com/736x/93/24/05/932405dd077400dac3b3521cf9ef8883.jpg)
  
  Here are some facts / information about me :
- - I'm Currently Learning C++ .
  - I love linux (and i use Arch btw).
  - And i'm lazy af.
  - Fun Fact: There is nothing interesting about me!
@@ -39,6 +38,7 @@
     <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="git Logo" width="6.5%" title='git' />
     <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" alt="Linux Logo" width="8%" title='Linux' />
     <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="VIm Logo" width="6.5%" title='VIM' />
+ <img src="arch.png" width="7%" />
 </div>
 
 ---
