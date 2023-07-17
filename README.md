@@ -35,10 +35,8 @@
 ### 🧰 Tools And Software
 
 <div>
-    
-   
     <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="VIm Logo" width="6.5%" title='VIM' />
- 
+</div>
 
 ---
 ### My Stats :
