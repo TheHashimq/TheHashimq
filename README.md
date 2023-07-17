@@ -35,11 +35,10 @@
 ### 🧰 Tools And Software
 
 <div>
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/git-icon-logo-png-transparent.png" alt="git Logo" width="6.5%" title='git' />
-    <img src="https://cdn.freebiesupply.com/logos/large/2x/linux-tux-1-logo-png-transparent.png" alt="Linux Logo" width="8%" title='Linux' />
+    
+   
     <img src="https://cdn.freebiesupply.com/logos/large/2x/vim-logo-png-transparent.png" alt="VIm Logo" width="6.5%" title='VIM' />
- <img src="arch.png" width="7%" />
-</div>
+ 
 
 ---
 ### My Stats :
