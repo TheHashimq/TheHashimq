@@ -14,7 +14,7 @@
 
 ## My Tech Stack 
 
-### Programming languages in which i can write "Hello World" :satisfied::sunglasses:
+### Programming languages in which i can write "Hello World" 🦍
 <div>
   <img src="https://www.pngkit.com/png/full/101-1010012_download-png.png" alt="C Logo" width="6%" title='C'/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" alt="c++" width="6%" title='C++' />
