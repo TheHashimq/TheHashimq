@@ -1,53 +1,94 @@
-## Hello there :
+<!-- Profile Header -->
+<h1 align="center">Hey 👋, I'm Hashim Q</h1>
+<h3 align="center">A passionate Linux user and lifelong learner, exploring systems, code & creativity.</h3>
 
-### This is Hashimq , Just a noob programmer ... learning !
- 
- Here are some facts / information about me :
- - I love linux (and i use Artix and Vim btw).
- - And i'm lazy af.
- - Fun Fact: There is nothing interesting about me!
- - 📫 Contact me: hashimq905@gmail.com
-
-## Socials 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hashim-q-3b6b24268) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://www.reddit.com/user/TheHashimq/)
-
-## My Tech Stack 
-
-### Programming languages in which i can write "Hello World" 🦍
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" alt="C Logo" width="6%" title='C'/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="6%" title='C++' />
- <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="Python" width="6%" title='Python' />
-</div>
-
-### :computer: FrontEnd
-
-<div>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5 logo" width="6%" title='HTML5'/>
-  <img src ="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="6%" title='CSS3'/>
-   <img src ="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="6%" title='JavaScript'/>
- <img src ="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="6%" title='React'/>
-<div> 
-
-### 🛠️ BackEnd 
-<div>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="6%" title='Nodejs'/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" width="6%" title='Express'/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="6%" title='MongoDB'/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongoose/mongoose-original-wordmark.svg" width="6%" title='Mongoose'/>
- <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="6%" title='Mysql'/>
-</div>
-
-### 🧰 Tools And Software
-
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux Logo" width="6%" title='Linux' />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git Logo" width="6%" title='Git' />
-   <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg" alt="Docker Logo" width="6%" title='Docker' />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Noob+programmer+on+a+mission...;I+use+Artix+Linux+%26+Vim+btw!;Backend+%7C+Linux+%7C+WebAssembly+%7C+Systems&center=true&width=500&pause=1000&color=00FFFF&font=Fira%20Code" alt="Typing SVG" />
+</p>
 
 ---
-### My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=thehashimq&theme=tokyonight)](https://git.io/streak-stats)
 
- [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=thehashimq&theme=tokyonight)](https://github.com/hashimq07/github-readme-stats)
+## 🧠 About Me
+
+- 💻 Currently learning: **WebAssembly**, **C++ backend**, and **WebGPU**
+- 🐧 Daily driving on **Artix Linux** (i use `vim` like a boss 🧙)
+- 📡 Interested in **low-latency systems**, **DevOps**, and **graphics**
+- 😅 Fun Fact: My code sometimes works on the first try (miracles do happen)
+- 📬 Reach me at: [hashimq905@gmail.com](mailto:hashimq905@gmail.com)
+
+---
+
+## 🌐 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/hashim-q-3b6b24268" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.reddit.com/user/TheHashimq/" target="_blank">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
+  </a>
+  <a href="mailto:hashimq905@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+## 🧰 My Tech Toolbox
+
+### 🚀 Languages
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40" title="C++" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" title="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" title="JavaScript" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" title="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" title="React" />
+</p>
+
+### 🧱 Backend & Databases
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" title="Node.js" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" title="Express" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" title="MongoDB" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" title="MySQL" />
+</p>
+
+### 🛠 Tools & Platforms
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" title="Linux" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" title="Git" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" title="Docker" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" title="Bash" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=thehashimq&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thehashimq&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🐍 GitHub Activity Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/thehashimq/thehashimq/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=thehashimq&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
