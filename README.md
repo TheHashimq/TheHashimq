@@ -1,22 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hi there 👋, I'm Hashim Q</h1>
-<h3 align="center">Linux user, systems tinkerer, and backend developer building performant, secure, and resilient software.</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Building+Efficient+and+Minimal+Software&center=true&width=500&pause=1000&color=00FFFF&font=Fira%20Code" alt="Typing SVG" />
-</p>
-
-
----
 
 ## 🧠 About Me
-
-- 💡 Currently exploring: **C++ backend**, **WebAssembly**, **WebGPU**
-- 🐧 Daily driver: **Artix Linux** (because init freedom matters)
-- 🛠 Focus: Building fast, robust systems that just work™
 - 📫 Reach out: [hashimq905@gmail.com](mailto:hashimq905@gmail.com)
 
----
 
 ## 🌐 Connect with Me
 
@@ -78,14 +65,4 @@
 
 ---
 
-## 🐍 Contribution 
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/thehashimq/thehashimq/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=thehashimq&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
