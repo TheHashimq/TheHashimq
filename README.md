@@ -3,10 +3,6 @@
 
 ## 🧠 About Me
 - 📫 Reach out: [hashimq905@gmail.com](mailto:hashimq905@gmail.com)
-
-
-## 🌐 Connect with Me
-
 <p align="center">
   <a href="https://www.linkedin.com/in/hashim-q-3b6b24268" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
