@@ -1,0 +1,122 @@
+name: Update README Tech Stack
+
+on:
+  push:
+    branches: [main, master]
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly on Sunday
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.11'
+      
+      - name: Fetch tech stack from repos
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python3 << 'EOF'
+          import os
+          import json
+          import subprocess
+          from collections import defaultdict
+          
+          # Get GitHub username
+          username = "${{ github.repository_owner }}"
+          token = os.getenv('GITHUB_TOKEN')
+          
+          # Fetch all repos
+          repos_data = subprocess.run(
+              ['curl', '-s', '-H', f'Authorization: token {token}',
+               f'https://api.github.com/users/{username}/repos?per_page=100'],
+              capture_output=True, text=True
+          ).stdout
+          
+          repos = json.loads(repos_data)
+          
+          # Count languages across repos
+          lang_count = defaultdict(int)
+          
+          for repo in repos:
+              if repo['fork']:  # Skip forks
+                  continue
+              
+              # Get languages for each repo
+              langs_url = repo['languages_url']
+              langs_data = subprocess.run(
+                  ['curl', '-s', '-H', f'Authorization: token {token}', langs_url],
+                  capture_output=True, text=True
+              ).stdout
+              
+              try:
+                  langs = json.loads(langs_data)
+                  for lang in langs.keys():
+                      lang_count[lang] += 1
+              except:
+                  pass
+          
+          # Sort by frequency
+          sorted_langs = sorted(lang_count.items(), key=lambda x: x[1], reverse=True)
+          
+          # Map common languages/tools
+          tech_list = [lang for lang, count in sorted_langs[:8]]
+          
+          # Write to file
+          with open('TECH_STACK.txt', 'w') as f:
+              f.write(' · '.join(tech_list))
+          
+          print(f"Found tech: {' · '.join(tech_list)}")
+          EOF
+      
+      - name: Update README
+        run: |
+          python3 << 'EOF'
+          import re
+          
+          # Read tech stack
+          with open('TECH_STACK.txt', 'r') as f:
+              tech_stack = f.read().strip()
+          
+          # Read current README
+          with open('README.md', 'r') as f:
+              content = f.read()
+          
+          # Create tech section
+          tech_section = f"## Tech\n\n{tech_stack}\n\n"
+          
+          # Replace or add tech section
+          if "## Tech" in content:
+              content = re.sub(
+                  r'## Tech\n\n[^\n]+\n\n',
+                  tech_section,
+                  content
+              )
+          else:
+              # Add before Interests
+              content = content.replace(
+                  "## Interests",
+                  f"{tech_section}## Interests"
+              )
+          
+          # Write back
+          with open('README.md', 'w') as f:
+              f.write(content)
+          
+          print("README updated!")
+          EOF
+      
+      - name: Commit changes
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add README.md
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: update tech stack" && git push)
